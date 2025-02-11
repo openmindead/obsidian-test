@@ -1,0 +1,14 @@
+{
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "/Files",
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showLineNumber": false,
+  "propertiesInDocument": "source",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "!Notes/Inbox (Fleeting notes)",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showUnsupportedFiles": true,
+  "vimMode": false
+}

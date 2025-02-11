@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/local/bin/pandoc",
+  "pdflatex": "/opt/homebrew/bin/tectonic",
+  "outputFolder": "/Users/valerii/Documents/Documents/02_AREAS/Konspekt/Vaults/konspekt-starter-pack/!Notes/Manuscripts/Output",
+  "extraArguments": "--bibliography=/Users/valerii/Documents/Documents/02_AREAS/Konspekt/Vaults/konspekt-starter-pack/Service/my_library.json\n--csl=/Users/valerii/Documents/Documents/02_AREAS/Konspekt/Vaults/konspekt-starter-pack/Service/apa.csl\n--citeproc\n--pdf-engine=tectonic\n--standalone\n-V mainfont=\"Times\"",
+  "exportFrom": "md"
+}
