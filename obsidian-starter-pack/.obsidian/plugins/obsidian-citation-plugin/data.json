@@ -5,5 +5,5 @@
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\npages: {{page}}\ncitekey: {{citekey}}\n---\n\n- Тип заметки: #literature_note\n- Когда прочитано: {{date:DD-MM-YYYY}} {{time:HH:mm}}\n- Контексты: \n- Fleeting Note: [[{{citekey}}]]\n- [Ссылка в Зотеро]({{zoteroSelectURI}})\n\n## Резюме источника\n## Ключевые идеи автора\n## Мои идеи по тексту",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "Service/my_library.json"
+  "citationExportPath": "my_library.json"
 }
