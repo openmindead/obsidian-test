@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/local/bin/pandoc",
+  "pdflatex": "/usr/local/bin/tectonic",
+  "outputFolder": "/Users/test/Documents/obsidian-starter-pack/!Notes/Manuscripts/Output",
+  "extraArguments": "--bibliography=/Users/test/Documents/obsidian-starter-pack/my_library.json\n--csl=/Users/test/Documents/obsidian-starter-pack/Service/apa.csl\n--citeproc\n--pdf-engine=tectonic\n--standalone\n-V mainfont=\"Times\"",
+  "exportFrom": "md"
+}
